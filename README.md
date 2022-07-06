@@ -1,26 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-Blah blah blah 
+The purpose of this app was to be able to sell an ebook without needing to pay squarespace anymore! This app has been on a long list of project ideas, and at this point in my programming journey it is fully possible. My intent is for this app to be full-stack with a rails back-end and react front-end. Both the webpacker gem and the rails-react gem are being used. This is currently being built to be a singular landing page that presents a checkout form on the click of a order button, although that might expand as the app develops. This app is currently running on Ruby 2.7 and Rails 7. 
